@@ -25,5 +25,5 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Certificates
 ## Education
 ## Contacts
-  - LinkedIn: @Wipas1919
+  - LinkedIn: 
   - Email: wipas2526@gmail.com
