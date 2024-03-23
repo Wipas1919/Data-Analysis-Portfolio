@@ -17,3 +17,7 @@ This is a repository to showcase skills, share projects and track my progress in
   - Excel / Google Sheets
   - Tableau
   - Power BI
+  - [Education]  
+  - [Certificates]
+  - [Contact]
+## Portfolio Projects
