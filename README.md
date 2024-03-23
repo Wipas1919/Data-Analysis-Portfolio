@@ -21,3 +21,9 @@ This is a repository to showcase skills, share projects and track my progress in
   - [Certificates]
   - [Contact]
 ## Portfolio Projects
+
+## Certificates
+## Education
+## Contacts
+  - LinkedIn: @Wipas1919
+  - Email: wipas2526@gmail.com
